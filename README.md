@@ -3,6 +3,8 @@
 
 Este repositório visa reunir alguns desafios de engenharia reversa para arquitetura M1. Os desafios são relativamente simples, mas tem como objetivo a prática para engenharia reversa neste tipo de arquitetura que utiliza arm64. Os desafios vão ser colocados de acordo com o seu nível e como faz parte do meu estudo na plataforma, vão ser adicionado conforme vou estudando e praticando. Espero que se divirta assim como eu, tentando resolver.
 
+Partes do desafio serão remakes de desafios feitos para outras plataformas, mas que tenho o objetivo de portar para esta uma vez que desejo praticar utilizando M1.
+
 Alguns wirteups serão adicionados na pasta de cada desafio.
 
 Fique a vontade para enviar desafios e soluções via PR.

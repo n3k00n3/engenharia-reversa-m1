@@ -1,5 +1,5 @@
-# Reverse-M1-challenges
-Reverse Engineering M1 challenges
+
+# Engenharia Reversa em M1 (MacOS)
 
 Este repositório visa reunir alguns desafios de engenharia reversa para arquitetura M1. Os desafios são relativamente simples, mas tem como objetivo a prática para engenharia reversa neste tipo de arquitetura que utiliza arm64. Os desafios vão ser colocados de acordo com o seu nível e como faz parte do meu estudo na plataforma, vão ser adicionado conforme vou estudando e praticando. Espero que se divirta assim como eu, tentando resolver.
 
